@@ -4,7 +4,7 @@ Data Privacy Respecting Trusts are vehicles for multiple organizations to secure
 
 This repository contains versioned clauses and templates the BrightHive and its Trusted Partner Network use to develop and maintaining data trusts networks of organizations that engage with us.
 
-The Data Pricacy Respecting Trust Agreement (DPRTA) makes use of an underlying data model called a *trust graph* to author the legal documents.
+The Data Privacy Respecting Trust Agreement (DPRTA) makes use of an underlying data model called a *trust graph* to author the legal documents.
 
 # Using this repository
 
