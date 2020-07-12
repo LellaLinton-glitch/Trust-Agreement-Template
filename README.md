@@ -1,10 +1,10 @@
-# Data Trust
+# Data Privacy Respecting Trust
 
-Data Trusts are vehicles for multiple organizations to securely, responsibly, and ethically combine their data for one or more shared purposes.  
+Data Privacy Respecting Trusts are vehicles for multiple organizations to securely, responsibly, and ethically combine their data for one or more shared purposes.  
 
 This repository contains versioned clauses and templates the BrightHive and its Trusted Partner Network use to develop and maintaining data trusts networks of organizations that engage with us.
 
-The Data Trust Agreement (DTA) makes use of an underlying data model called a *trust graph* to author the legal documents.
+The Data Pricacy Respecting Trust Agreement (DPRTA) makes use of an underlying data model called a *trust graph* to author the legal documents.
 
 # Using this repository
 
