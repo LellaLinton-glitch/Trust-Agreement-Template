@@ -1,6 +1,6 @@
 # Data Privacy Respecting Trust
 
-Data Privacy Respecting Trusts are vehicles for multiple organizations to securely, responsibly, and ethically combine their data for one or more shared purposes.  
+Data Privacy Respecting Trusts (DPRT) are machine-readable vehicles for multiple organizations to securely, responsibly, and ethically combine their data for one or more shared purposes.  
 
 This repository is an expanded derivation from versioned clauses and templates the BrightHive and its Trusted Partner Network use to develop and maintaining data trusts networks of organizations.
 
